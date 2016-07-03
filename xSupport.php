@@ -6,9 +6,9 @@
  * @author cdpollard@gmail.com
  * @icon Question Block.png
  * @mini life-ring
- * @see support
+ * @see settings 
  * @link support
- * @release beta
+ * @beta
  * @todo
  */
 
