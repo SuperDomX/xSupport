@@ -2,8 +2,8 @@
 /**
  * @name Support
  * @desc Get Quality Assistance from Offical Support.
- * @version v0.12
- * @author cdpollard@gmail.com
+    * @version v0.1(160710)
+    * @author  @xopherdeep
  * @icon Question Block.png
  * @mini life-ring
  * @see settings 
